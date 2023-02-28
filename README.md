@@ -1,7 +1,6 @@
 ### salut 👋
 
-<!--
-**vvadamvv/vvadamvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Je suis un étudiant en Terminale passionné de programmation qui aspire à devenir ingénieur informatique.🧑‍💻
 
