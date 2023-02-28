@@ -8,4 +8,4 @@
 - Passionné de technologies, d'intelligence artificielle et de développement web
 - Je travaille actuellement sur différents projets personnels pour améliorer mes compétences en programmation
 
-* si vous voulez me contacter : zoouhairiiadam@gmail.com
+** si vous voulez me contacter : zoouhairiiadam@gmail.com
