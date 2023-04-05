@@ -7,6 +7,7 @@
 - Étudiant en Terminale intéressé par la programmation depuis l'âge de 14 ans
 - Passionné de technologies, d'intelligence artificielle et de développement web
 - Je travaille actuellement sur différents projets personnels pour améliorer mes compétences en programmation
+- j'ai appris a utliser les package python pandas,sckit-learn,beautifulsoup et tensorflow/keras
 - Je suis actuellement entrain de travailler sur l'IA du puissance 4
 
 | si vous voulez me contacter : zouhairiiadam@gmail.com |
