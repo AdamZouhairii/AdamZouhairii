@@ -4,7 +4,7 @@
 
 #### Je suis un étudiant en Terminale passionné de programmation qui aspire à devenir ingénieur informatique.🧑‍💻
 
-- Étudiant en Terminale intéressé par la programmation depuis l'âge de 14 ans
+- Étudiant en Première année d'ecole ingénieurs en inteligence artificiel
 - Passionné de technologies, d'intelligence artificielle et de développement web
 - Je travaille actuellement sur différents projets personnels pour améliorer mes compétences en programmation
 - J'ai appris à utiliser les packages Pandas, Scikit-learn, Beautiful Soup 4 et TensorFlow/Keras.
