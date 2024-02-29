@@ -1,13 +1,28 @@
-### salut 👋
+----------------------------- 🚀 Adam Zouhairi - AI & Tech Enthusiast -----------------------------
+👋 Hi ! Here's what I bring to the table:
 
- 
+- 🤖 Expertise in Artificial Intelligence
+- 🌐 Proficient in Web Scraping
+- 🔒 Skilled in web design 
 
-#### Je suis un étudiant en première année a IA institut passionné de programmation qui aspire à devenir ingénieur informatique.🧑‍💻
+😃  a bit more about myself:
+- 🏅 Passionate about leveraging AI for real-world impact
+- 💻 Always exploring the latest in tech and innovation
+- 🥇 Excited to collaborate on cutting-edge projects
 
-- Étudiant en Première année d'ecole ingénieurs en inteligence artificiel
-- Passionné de technologies, d'intelligence artificielle et data sciences 
-- Je travaille actuellement sur différents projets personnels pour améliorer mes compétences en programmation
-- J'ai appris à utiliser les packages Pandas, Scikit-learn, Beautiful Soup 4 ,mathplolib , plotly, TensorFlow et Pytorch.
-- Je suis actuellement entrain de travailler sur Axia.
+🎓 Education & Achievements:
+- 🧑‍💻 students at AI institut 
+- 🏆 2cnd place at Aleph.im & POC hackathon with an [Ai pipe-line]()
 
-| si vous voulez me contacter : zouhairiiadam@gmail.com |
+🔧 Tools & Technologies:
+- Python,tsx,R,JavaScript,HTML,CSS
+- TensorFlow, PyTorch, Scikit-learn
+- BeautifulSoup, Scrapy, Selenium
+- Metasploit
+
+📫 How to connect with me: 
+- Email: zouhairiiadam@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/adam-zouhairi](https://www.linkedin.com/in/adam-zouhairi-4a7894292?trk=contact-info)
+💼 Open to exciting opportunities and collaborations!
+
+--------------------------------------------------------------------------------
