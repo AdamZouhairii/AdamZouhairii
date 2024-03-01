@@ -1,4 +1,6 @@
 ------------------ 🚀 Adam Zouhairi - AI & Tech Enthusiast -------------------
+
+
 👋 Hi ! Here's what I bring to the table:
 
 - 🤖 Expertise in Artificial Intelligence
