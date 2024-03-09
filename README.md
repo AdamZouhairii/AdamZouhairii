@@ -18,7 +18,7 @@
 
 🔧 Tools & Technologies:
 - Python,tsx,R,JavaScript,HTML,CSS
-- TensorFlow, PyTorch, Scikit-learn
+- TensorFlow, PyTorch, Scikit-learn, Transformers
 - BeautifulSoup, Scrapy, Selenium
 - Metasploit
 
