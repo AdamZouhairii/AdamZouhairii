@@ -18,13 +18,14 @@
 
 🔧 Tools & Technologies:
 - Python,tsx,R,JavaScript,HTML,CSS
+- Pandas, plotly, matplotlib, yellowbrick, streamlit
 - TensorFlow, PyTorch, Scikit-learn, Transformers
 - BeautifulSoup, Scrapy, Selenium
 - Metasploit
 
 📫 How to connect with me: 
 - Email: zouhairiiadam@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/adam-zouhairi](https://www.linkedin.com/in/adam-zouhairi-4a7894292?trk=contact-info)
+- LinkedIn: [adam-zouhairi](https://www.linkedin.com/in/adam-zouhairi-4a7894292?trk=contact-info)
 💼 Open to exciting opportunities and collaborations!
 
 --------------------------------------------------------------------------------
