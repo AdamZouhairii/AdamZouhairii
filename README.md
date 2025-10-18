@@ -13,7 +13,7 @@
 - 🥇 Excited to collaborate on cutting-edge projects
 
 🎓 Education & Achievements:
-- 🧑‍💻 students at AI institut 
+- 🧑‍💻 students at Epita IA institut 
 - 🏆 2cnd place at Aleph.im & POC hackathon with an [Ai pipe-line](https://github.com/AdamZouhairii/Aleph-hackathon)
 
 🔧 Tools & Technologies:
