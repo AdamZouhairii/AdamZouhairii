@@ -22,6 +22,7 @@
 - TensorFlow, PyTorch, Scikit-learn, Transformers
 - BeautifulSoup, Scrapy, Selenium
 - Metasploit
+- Flutter(dart)
 
 📫 How to connect with me: 
 - Email: zouhairiiadam@gmail.com
